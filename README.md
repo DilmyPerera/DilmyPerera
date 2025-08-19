@@ -34,9 +34,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dilmyperera&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- 
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wcrt6o7nov3ufoj86bykez6wn&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/wcrt6o7nov3ufoj86bykez6wn)
+-->
 
 ---
 
