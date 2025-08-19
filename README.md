@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilmy Perera</h1>
 
 
-- 🌱 I’m currently learning **Data Analysis and Data Science**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **samadiniperera20@gmail.com**
 
