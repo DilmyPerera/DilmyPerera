@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Final%20Year%20IT%20Undergraduate;Full-Stack%20Developer;Data%20Analyst;Machine%20Learning%20and%20AI%20Enthusiast;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Data%20Analyst;Machine%20Learning%20and%20AI%20Enthusiast;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilmyperera&label=Profile%20views&color=0e75b6&style=flat" alt="dilmyperera" /> </p>
